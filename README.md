@@ -3,9 +3,9 @@
 <hr><hr>
 <h3 align="center">A passionate frontend developer from India</h3>
 <hr><hr>
-<img src="https://www.techbabble.zone/content/images/size/w1000/2021/07/46207-programmer-1.gif" alt="coding alone a boy" width="700" height="500">
+<img src="https://www.techbabble.zone/content/images/size/w1000/2021/07/46207-programmer-1.gif" alt="coding alone a boy" width="650" height="500">
 <hr><hr>
-<img src="https://i0.wp.com/webbuildinfotech.com/wp-content/uploads/2022/07/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif?fit=640%2C640&ssl=1"  alt="good one" width="700" height="500"  >
+<img src="https://i0.wp.com/webbuildinfotech.com/wp-content/uploads/2022/07/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif?fit=640%2C640&ssl=1"  alt="good one" width="600" height="450"  >
 <hr><hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasbarihope&label=Profile%20views&color=0e75b6&style=flat" alt="rasbarihope" /> </p>
 
